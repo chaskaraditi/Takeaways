@@ -1,0 +1,8 @@
+To trust AI, make it explainable
+A trustworthy AI system is a good AI system
+For AI to be considered trustworthy, it must be available when it is supposed to be available and must generate consistent and reliable outputs
+Trustworthy requires explainability, accountability, being unbiassed, resilient and reliable
+AI agents need to be trustworthy, accountable and reliable
+To ensure that AI will have good opportunities, people should evaluate that if AI will meet explainable requirements
+For AI to be trustworthy, it must be open for inspection, and its decisions must be fully explainable
+To increase trust on an AI system, we should strive to make the interfaces explainable, accountable, unbiased, resilient and reliable
